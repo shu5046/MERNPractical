@@ -1,0 +1,17 @@
+[
+  { "id": 1, "name": "iPhone 14", "category": "electronics", "price": 999 },
+  { "id": 2, "name": "Samsung Galaxy S22", "category": "electronics", "price": 899 },
+  { "id": 3, "name": "Sony WH-1000XM4", "category": "electronics", "price": 349 },
+  { "id": 4, "name": "Nike Air Zoom Pegasus", "category": "fashion", "price": 120 },
+  { "id": 5, "name": "Adidas Ultraboost", "category": "fashion", "price": 180 },
+  { "id": 6, "name": "Levi's Jeans", "category": "fashion", "price": 60 },
+  { "id": 7, "name": "Wooden Dining Table", "category": "furniture", "price": 450 },
+  { "id": 8, "name": "Office Chair", "category": "furniture", "price": 199 },
+  { "id": 9, "name": "Table Lamp", "category": "furniture", "price": 49 },
+  { "id": 10, "name": "Harry Potter Box Set", "category": "books", "price": 120 },
+  { "id": 11, "name": "Atomic Habits", "category": "books", "price": 25 },
+  { "id": 12, "name": "Clean Code", "category": "books", "price": 45 },
+  { "id": 13, "name": "Dell XPS 15", "category": "electronics", "price": 1500 },
+  { "id": 14, "name": "MacBook Pro 14", "category": "electronics", "price": 1999 },
+  { "id": 15, "name": "Kindle Paperwhite", "category": "electronics", "price": 129 }
+]
