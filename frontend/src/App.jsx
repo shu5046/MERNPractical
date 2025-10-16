@@ -33,7 +33,7 @@ function App() {
       const data = await res.json();
       setProfile(data);
     } catch (err) {
-      alert("Failed to fetch profile",err.message);
+      alert("Failed to fetch profile", err.message);
     }
   };
 
@@ -47,7 +47,7 @@ function App() {
       const data = await res.json();
       setProducts(data.data || []);
     } catch (err) {
-      alert("Failed to fetch products",err.message);
+      alert("Failed to fetch products", err.message);
     }
   };
 
